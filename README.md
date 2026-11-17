@@ -27,7 +27,7 @@ Twenty batteries were tested under different combinations of charge rate, discha
 
 ## Revisions to the original project
 
-This started as a course project (EMSE 4765, Spring 2024) done in Minitab and Excel. I rebuilt it in Python and corrected several methods: VIF instead of Durbin–Watson for multicollinearity, cross-validation instead of raw R² for model selection, hierarchical testing of interactions, and a sensitivity analysis instead of deleting outliers. The corrected analysis reaches a simpler and better-supported conclusion. The full comparison is at the end of the notebook.
+This started as a course project done in Minitab and Excel. I rebuilt it in Python and corrected several methods: VIF instead of Durbin–Watson for multicollinearity, cross-validation instead of raw R² for model selection, hierarchical testing of interactions, and a sensitivity analysis instead of deleting outliers. The corrected analysis reaches a simpler and better-supported conclusion. The full comparison is at the end of the notebook.
 
 ## Repository structure
 
